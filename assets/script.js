@@ -100,6 +100,7 @@ const lap = () => {
   li.append(number, timeStamp);
   lapS.append(li);
   clearBtn.classList.remove("laptime")
+
 };
 
 const clear = () => {
